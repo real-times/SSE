@@ -1,5 +1,5 @@
 ---
-name: "\bEtc template"
+name: "Etc template"
 about: 기타 작업 이슈 템플릿
 title: ''
 labels: ''
